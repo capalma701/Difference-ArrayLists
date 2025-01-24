@@ -1,0 +1,14 @@
+import java.util.ArrayList;
+class Test
+{
+    public static void main(String args[])
+    {
+        int[] array = new int[3];
+        Test[] array1 = new Test[3];
+        ArrayList<Integer> arrL1 = new ArrayList<>();
+        ArrayList<String> arrL2 = new ArrayList<>();
+        ArrayList<Object> arrL3 = new ArrayList<>();
+
+        System.out.println("Successfully compiled and executed");
+    }
+} 
